@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    
+    >
+<LinearLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Safari Sevens"
+        android:layout_gravity="left"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    <RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+    
+      <TextView
+        android:id="@+id/textView3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Harlequins'"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:text="Thursday, Next Week" />
+
+    
+</RelativeLayout>
+
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:editable="false" 
+        android:text="A thrilling experience between our very own Kenyan Team versus the Uganda Cranes"
+        >
+
+    </EditText>
+    
+     <!-- spaces -->
+	<TextView 
+				android:layout_width="fill_parent"
+				android:layout_height="20px" 
+				/>
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Safari Eights"
+        android:layout_gravity="left"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    <RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+    
+      <TextView
+        android:id="@+id/textView3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Harlequins'"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:text="Thursday, Next Week" />
+
+    
+</RelativeLayout>
+
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:editable="false"  
+        android:text="A thrilling experience between our very own Kenyan Team versus the Uganda Cranes"
+        >
+
+    </EditText>
+    
+     <!-- spaces -->
+	<TextView 
+				android:layout_width="fill_parent"
+				android:layout_height="20px" 
+				/>
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Safari Nines"
+        android:layout_gravity="left"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    <RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+    
+      <TextView
+        android:id="@+id/textView3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Harlequins'"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:text="Thursday, Next Week" />
+
+    
+</RelativeLayout>
+
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine"
+        android:editable="false"  
+        android:text="A thrilling experience between our very own Kenyan Team versus the Uganda Cranes"
+        >
+
+    </EditText>
+    
+     <!-- spaces -->
+	<TextView 
+				android:layout_width="fill_parent"
+				android:layout_height="20px" 
+				/>
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Safari Tens"
+        android:layout_gravity="left"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    <RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+    
+      <TextView
+        android:id="@+id/textView3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Harlequins'"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:text="Thursday, Next Week" />
+
+    
+</RelativeLayout>
+
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine" 
+        android:editable="false" 
+        android:text="A thrilling experience between our very own Kenyan Team versus the Uganda Cranes"
+        >
+
+    </EditText>
+    
+     <!-- spaces -->
+	<TextView 
+				android:layout_width="fill_parent"
+				android:layout_height="20px" 
+				/>
+    
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Safari Fifteens"
+        android:layout_gravity="left"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    <RelativeLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+    
+      <TextView
+        android:id="@+id/textView3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Harlequins'"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:text="Thursday, Next Week" />
+
+    
+</RelativeLayout>
+
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine" 
+        android:editable="false" 
+        android:text="A thrilling experience between our very own Kenyan Team versus the Uganda Cranes"
+        >
+
+    </EditText>
+    
+    </LinearLayout>
+    
+</ScrollView>

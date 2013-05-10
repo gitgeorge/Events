@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        >
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    >
+        	
+    <EditText 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Name your event:"
+        />
+    
+    <EditText 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Where is it going down?"
+        />
+    
+    <TextView 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Date and time of your event"
+        />
+    
+    <DatePicker 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+    
+    <TimePicker 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+    
+    <Spinner 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="Describe your Event" 
+        />
+    
+    <Button  
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Create Event"
+        android:layout_gravity="center"
+        />
+    
+	</LinearLayout>
+
+</ScrollView>
