@@ -62,8 +62,8 @@ public class Login extends Activity {
 			@Override
 			public void run() {
 				try {
-					//String url = "http://10.0.2.2/DbEventure/Login.php";
-					String url = "http://eventure.devparadim.com/Login.php";
+					String url = "http://10.0.2.2/DbEventure/Login.php";
+					//String url = "http://eventure.devparadim.com/Login.php";
 					DefaultHttpClient httpclient = new DefaultHttpClient();
 					// Create a HTTp post object to hold our data - url
 					HttpPost httppost = new HttpPost(url);

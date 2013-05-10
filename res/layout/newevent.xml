@@ -51,6 +51,15 @@
         android:hint="Describe your Event" 
         />
     
+    <Button
+        android:id="@+id/buttonimage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Upload Image" 
+        android:onClick="ImagePick"
+        android:layout_gravity="center_horizontal"
+        />
+    
     <Button  
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

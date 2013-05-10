@@ -24,18 +24,17 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_settings=0x7f080013;
         public static final int bRegister=0x7f080012;
         public static final int btnlogin=0x7f080009;
         public static final int buttoncreate_main=0x7f080003;
-        public static final int buttonimage=0x7f080011;
+        public static final int buttonimage=0x7f08000c;
         public static final int editText1=0x7f08000b;
         public static final int editText3=0x7f080002;
-        public static final int editcpassword=0x7f080010;
-        public static final int editemail=0x7f08000e;
-        public static final int editfname=0x7f08000c;
-        public static final int editlastname=0x7f08000d;
-        public static final int editpassword=0x7f08000f;
+        public static final int editcpassword=0x7f080011;
+        public static final int editemail=0x7f08000f;
+        public static final int editfname=0x7f08000d;
+        public static final int editlastname=0x7f08000e;
+        public static final int editpassword=0x7f080010;
         public static final int edpassword=0x7f080008;
         public static final int email=0x7f080007;
         public static final int imageView1=0x7f080005;
@@ -77,17 +76,6 @@ public final class R {
             res/values-vXX/styles.xml, while customizations related to
             backward-compatibility can go here.
         
-
-        Base application theme for API 11+. This theme completely replaces
-        AppBaseTheme from res/values/styles.xml on API 11+ devices.
-    
- API 11 theme customizations can go here. 
-
-        Base application theme for API 14+. This theme completely replaces
-        AppBaseTheme from BOTH res/values/styles.xml and
-        res/values-v11/styles.xml on API 14+ devices.
-    
- API 14 theme customizations can go here. 
          */
         public static final int AppBaseTheme=0x7f060000;
         /**  Application theme. 
